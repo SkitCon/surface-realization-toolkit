@@ -1,0 +1,1 @@
+estar: estoy+V+SING+IND+PRES+1P, estás+V+SING+IND+PRES+2P, está+V+SING+IND+PRES+3P

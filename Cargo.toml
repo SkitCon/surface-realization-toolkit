@@ -1,1 +1,13 @@
+[package]
+name = "srt_realize"
+version = "0.0.1"
+authors = ["Amber Converse <ambercconverse@gmail.com>"]
+
+[lib]
+name = "morph_lib"
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
 rustfst = "0.9"
+pyo3 = { version = "0.18", features = ["extension-module"] }
