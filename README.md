@@ -1,6 +1,8 @@
 # surface-realization-toolkit
 This repository contains code for generating a performant FST-based surface realization system in Rust with minimal overhead.
 
+**WORK IN PROGRESS:** Toolkit is currently unfinished
+
 An FST is generated from a list of lemmas with all surface forms and their morphological categories, e.g.
 
 ```
