@@ -1,5 +1,5 @@
 # surface-realization-toolkit
-This repository contains code for generating a performant FST-based surface realization system in Rust with minimal overhead.
+The goal of this project is to create a framework for creating a surface realization system from a vocabulary and an existing morphological analysis module.
 
 **WORK IN PROGRESS:** Toolkit is currently unfinished
 
